@@ -1,3 +1,6 @@
+WARNING: THIS COULD GET YOU BANNED (idk) I'M NOT RESPONSIBLE FOR ANY USAGE, MODIFICATION OR ANYTHING EXCEPT THE CREATION OF THIS EXTENSION, ITS FOR EDUCATIONNAL PURPOSES ONLY AND 
+IT SHOULD NOT BE USED FOR BAD INTENTS, I MADE IT FOR FUN ONLY.
+
 OOOOkay so the extension should be activated in the debug menu for addons on firefox as a temporary addon.
 after this you'll can right click on any highlighted gift code on this format : XXX-XXX-XXXX (with X being numbers)
 and click on "Paste Roblox Code VX.x"
